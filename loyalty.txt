@@ -1,0 +1,6 @@
+diamond 1 ali 123
+silver 3 alif 123
+gold 4 ail 123
+diamond 11679 e 13
+diamond 1 ali 123
+diamond 15154 1 adsa

@@ -1,0 +1,4 @@
+1 milk 200
+2 milk 200
+3 milk 200
+4 milk 200
